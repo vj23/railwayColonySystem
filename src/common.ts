@@ -1,0 +1,1 @@
+window['ngm_common'] = {}
